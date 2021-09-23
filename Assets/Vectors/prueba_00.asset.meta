@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 0b9db18f4e060994baa2cfda8c787602
+timeCreated: 1495366119
+licenseType: Free
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n
+    \  xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+    \  xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n
+    \  xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n
+    \  width=\"14513.386\"\n   height=\"14513.386\"\n   viewBox=\"0 0 14513.386 14513.386\"\n
+    \  id=\"svg2\"\n   version=\"1.1\"\n   inkscape:version=\"0.91 r13725\"\n   sodipodi:docname=\"prueba_00.svg\">\n
+    \ <defs\n     id=\"defs4\" />\n  <sodipodi:namedview\n     id=\"base\"\n     pagecolor=\"#ffffff\"\n
+    \    bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n     inkscape:pageopacity=\"0.0\"\n
+    \    inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"0.028284271\"\n     inkscape:cx=\"3239.7143\"\n
+    \    inkscape:cy=\"7375.4922\"\n     inkscape:document-units=\"px\"\n     inkscape:current-layer=\"layer1\"\n
+    \    showgrid=\"false\"\n     units=\"px\"\n     showborder=\"true\"\n     inkscape:window-width=\"1920\"\n
+    \    inkscape:window-height=\"1018\"\n     inkscape:window-x=\"-8\"\n     inkscape:window-y=\"-8\"\n
+    \    inkscape:window-maximized=\"1\" />\n  <metadata\n     id=\"metadata7\">\n
+    \   <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n
+    \       <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"
+    />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n
+    \ <g\n     inkscape:label=\"Capa 1\"\n     inkscape:groupmode=\"layer\"\n     id=\"layer1\"\n
+    \    transform=\"translate(0,13461.024)\">\n    <path\n       style=\"fill:#768650;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.44269836px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 6279.3923,-6976.2671 c 3675.2527,-1174.145 1436.326,-2518.9054 1428.7534,-2519.0699
+    -346.7956,-1391.547 -873.7594,-2214.148 -2105.2038,-812.199 -1606.1899,-871.056
+    -2795.5783,-756.918 -3568.1641,342.4179 -895.9616,698.4545 -2500.24968,1196.3322
+    -573.2113,2694.1812 955.664,1335.7064 2449.879,1321.2506 4817.8258,294.6698 z\"\n
+    \      id=\"path8074-8\"\n       inkscape:connector-curvature=\"0\"\n       sodipodi:nodetypes=\"cccccc\"\n
+    \      inkscape:export-filename=\"D:\\UNITY\\UNITY 3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#a0b07b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.22841012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 6243.4927,-7946.9853 c -1081.3906,526.6777 -1200.232,388.0553 -1790.9307,594.385
+    -1901.2195,698.5926 -1691.801,318.182 -2310.8255,98.2815 l -692.6089,-316.3602
+    c -992.33678,-1142.6295 -573.79854,-1500.5463 945.3401,-1902.7377 1196.5545,-186.0417
+    1911.4585,-49.9398 2298.6809,305.3245 1118.0791,-30.4826 1365.6512,407.9357 1746.5165,774.5555
+    107.4727,120.3478 209.6097,241.576 -196.1724,446.5514 z\"\n       id=\"path8076-1\"\n
+    \      inkscape:connector-curvature=\"0\"\n       sodipodi:nodetypes=\"cccccccc\"\n
+    \      inkscape:export-filename=\"D:\\UNITY\\UNITY 3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#bcc7a1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52420026px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 3589.8248,-8169.6277 c -458.9505,225.0715 -509.5223,165.5591 -760.2751,253.6198
+    -807.049,298.2231 -718.3573,135.2699 -981.4301,40.5725 l -294.391,-136.1033 c
+    -422.2564,-490.5558 -244.7303,-643.7226 400.2321,-815.1262 508.0976,-78.9525 811.8382,-20.1178
+    976.5481,132.4581 474.8713,-12.3115 580.3186,175.8208 742.3355,333.2607 45.7291,51.6699
+    89.1933,103.7134 -83.0195,191.3184 z\"\n       id=\"path8076-5-6\"\n       inkscape:connector-curvature=\"0\"\n
+    \      sodipodi:nodetypes=\"cccccccc\"\n       inkscape:export-filename=\"D:\\UNITY\\UNITY
+    3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#925837;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.42060828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 5750.0608,1518.3591 c 1311.0018,-9316.0511 2210.2804,-11077.3456
+    1717.344,-12005.7901 -1444.4406,-1247.689 -2651.8608,-1151.215 -3019.3608,72.039
+    -152.6921,949.1045 541.1626,6606.8789 520.1601,8322.7461 l -154.2515,3225.5358
+    c 115.1329,518.8763 225.1056,1047.9824 936.1082,385.4692 z\"\n       id=\"path8070\"\n
+    \      inkscape:connector-curvature=\"0\"\n       sodipodi:nodetypes=\"cccccc\"\n
+    \      inkscape:export-filename=\"D:\\UNITY\\UNITY 3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#b98a6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.42060828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 5527.3089,-10206.316 c -59.4291,12449.8577 -433.7335,12015.5671 -433.7335,12015.5671
+    43.0085,-3911.8796 -66.2238,-7943.9151 -208.6175,-12002.1241 66.4103,-290.617
+    310.838,-558.848 642.351,-13.443 z\"\n       id=\"path8072\"\n       inkscape:connector-curvature=\"0\"\n
+    \      sodipodi:nodetypes=\"cccc\"\n       inkscape:export-filename=\"D:\\UNITY\\UNITY
+    3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#768650;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.58861947px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 15080.502,-11904.149 c -1092.306,-2375.444 -4387.398,-1136.901 -4390.115,-1132.267
+    -2785.2414,72.052 -4533.7744,312.328 -2228.8293,1210.355 -2183.8001,898.005 -2341.3951,1639.835
+    -472.7801,2225.4911 1058.7941,620.823 1507.4331,1656.2481 4997.9774,624.7 2870.896,-451.548
+    3316.764,-1370.4491 2093.747,-2928.2791 z\"\n       id=\"path8074\"\n       inkscape:connector-curvature=\"0\"\n
+    \      sodipodi:nodetypes=\"cccccc\"\n       inkscape:export-filename=\"D:\\UNITY\\UNITY
+    3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#a0b07b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.35265732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 11754.774,-12873.751 c 669.765,717.285 365.585,776.22 575.014,1159.792
+    740.396,1238.059 75.425,1070.966 -543.572,1428.78 l -827.772,393.2287 c -2511.3212,493.6109
+    -3066.7572,200.3969 -3358.4282,-773.0597 21.631,-753.509 509.914,-1178.676 1315.6733,-1380.463
+    295.8225,-689.578 1217.1799,-797.201 2042.7549,-993.933 265.443,-53.804 530.887,-104.243
+    796.33,165.655 z\"\n       id=\"path8076\"\n       inkscape:connector-curvature=\"0\"\n
+    \      sodipodi:nodetypes=\"cccccccc\"\n       inkscape:export-filename=\"D:\\UNITY\\UNITY
+    3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#bcc7a1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.57722038px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 10335.497,-11551.084 c 287.224,304.579 156.778,329.604 246.591,492.479
+    317.515,525.714 32.346,454.761 -233.107,606.699 l -354.9854,166.976 c -1076.9687,209.599
+    -1315.1638,85.093 -1440.2447,-328.262 9.2748,-319.961 218.6731,-500.499 564.219,-586.183
+    126.8624,-292.814 521.9817,-338.513 876.0257,-422.051 113.8334,-22.847 227.6674,-44.264
+    341.5014,70.342 z\"\n       id=\"path8076-5\"\n       inkscape:connector-curvature=\"0\"\n
+    \      sodipodi:nodetypes=\"cccccccc\"\n       inkscape:export-filename=\"D:\\UNITY\\UNITY
+    3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#768650;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.26982534px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 4101.2298,-13280.2 c -3592.43988,743.45 -1603.1337,1964.478 -1595.9815,1965.046
+    238.5866,530.366 700.8628,1048.641 1914.2177,1194.766 1843.5108,12.967 2369.3866,-135.86
+    3410.6587,-487.896 915.6282,-516.199 2482.3523,-828.819 803.073,-2156.368 -775.4715,-1140.128
+    -2191.2632,-1214.014 -4531.9679,-515.548 z\"\n       id=\"path8074-8-1\"\n       inkscape:connector-curvature=\"0\"\n
+    \      sodipodi:nodetypes=\"cccccc\"\n       inkscape:export-filename=\"D:\\UNITY\\UNITY
+    3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#a0b07b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.08121431px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 2850.8063,-12194.538 c 1074.5436,-365.99 1173.6331,-246.539 1752.7259,-380.344
+    1867.1986,-458.699 1632.188,-161.589 2196.8834,52.572 l 625.023,296.759 c 828.8526,985.339
+    398.0682,1252.186 -1078.8032,1491.935 -1150.6219,82.598 -1814.1762,-68.965 -2146.3657,-379.835
+    -1061.2974,-39.307 -1253.2572,-409.742 -1578.3305,-729.474 -90.0959,-103.951 -175.056,-208.311
+    228.8671,-351.613 z\"\n       id=\"path8076-1-2\"\n       inkscape:connector-curvature=\"0\"\n
+    \      sodipodi:nodetypes=\"cccccccc\"\n       inkscape:export-filename=\"D:\\UNITY\\UNITY
+    3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#bcc7a1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46138734px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 3153.734,-11927.431 c 456.193,-156.584 498.3101,-105.328 744.1815,-162.513
+    792.7692,-196.076 693.0603,-68.748 932.9247,23.277 l 265.5063,127.465 c 352.2701,422.812
+    169.4189,537.097 -457.6614,639.412 -488.5889,35.036 -770.415,-30.179 -911.5743,-163.597
+    -450.6937,-17.21 -532.3188,-176.125 -670.4596,-313.341 -38.2909,-44.607 -74.4014,-89.387
+    97.0828,-150.703 z\"\n       id=\"path8076-5-6-2\"\n       inkscape:connector-curvature=\"0\"\n
+    \      sodipodi:nodetypes=\"cccccccc\"\n       inkscape:export-filename=\"D:\\UNITY\\UNITY
+    3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#925837;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.42060828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 6938.3266,-5983.0856 c 2412.9879,-2124.0569 2998.5488,-2481.16 3115.1934,-2735.4174
+    1.463,-395.0703 -260.6013,-454.5772 -616.236,-189.0128 -249.6296,215.0899 -1419.1774,1606.7853
+    -1819.8299,2013.0538 l -775.9522,755.8787 c -97.0318,131.1489 -197.4535,264.3758
+    96.8247,155.4977 z\"\n       id=\"path8070-0\"\n       inkscape:connector-curvature=\"0\"\n
+    \      sodipodi:nodetypes=\"cccccc\"\n       inkscape:export-filename=\"D:\\UNITY\\UNITY
+    3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \   <path\n       style=\"fill:#b98a6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.42060828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 9585.2847,-8765.6348 c -2841.6652,2905.8808 -2817.2812,2778.8192
+    -2817.2812,2778.8192 897.7135,-911.3978 1792.5084,-1861.273 2686.6649,-2819.5303
+    79.2453,-63.3926 188.753,-109.4003 130.6163,40.7111 z\"\n       id=\"path8072-2\"\n
+    \      inkscape:connector-curvature=\"0\"\n       sodipodi:nodetypes=\"cccc\"\n
+    \      inkscape:export-filename=\"D:\\UNITY\\UNITY 3D 2D\\Projects\\VAQUEROS\\PrototypePhase_LookAt_v1_0\\Assets\\Sprites\\path8076-5-6-2.png\"\n
+    \      inkscape:export-xdpi=\"100\"\n       inkscape:export-ydpi=\"100\" />\n
+    \ </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 
