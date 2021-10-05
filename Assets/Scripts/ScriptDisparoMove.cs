@@ -42,7 +42,11 @@ public class ScriptDisparoMove : MonoBehaviour {
 		// Debug.Log ("me destruyo");
 
 		// destruimos la bala si colisiona con cualquier gameobject del escenario
-		Destroy (gameObject);
+		if(other.gameObject.tag != "vision")
+		{
+			// si son diferentes de vision
+			Destroy (gameObject);
+		}
 		
 	}
 		
