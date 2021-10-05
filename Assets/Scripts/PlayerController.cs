@@ -42,6 +42,9 @@ public class PlayerController : MonoBehaviour {
 		loadParamsFloatAnimator(posx, posz);
 		rotatePlayer();
 		changeSpeed (Input_X, Input_Z);
+		
+		 if (Input.GetKey("escape"))
+            Application.Quit();
 
 	}
 
